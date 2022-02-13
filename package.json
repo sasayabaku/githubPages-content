@@ -15,7 +15,13 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@emotion/babel-preset-css-prop": "^11.2.0",
+    "@emotion/core": "^11.0.0",
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@mui/material": "^5.4.1",
     "gatsby": "^4.7.1",
+    "gatsby-plugin-emotion": "^7.7.0",
     "gatsby-plugin-image": "^2.7.0",
     "gatsby-plugin-sass": "^5.7.0",
     "gatsby-plugin-sharp": "^4.7.0",
